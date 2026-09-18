@@ -3,7 +3,7 @@
 # Omni-Stand
 ### Universal Parametric Console Stand
 
-One stand for every handheld: PSP, Vita, Switch, Steam Deck, ROG Ally, phones and controllers. Fully parametric, 3D-printable, built in OpenSCAD with YAPBPS conventions.
+One stand for every handheld: PSP, Vita, Switch, Steam Deck, ROG Ally, phones and controllers. Fully parametric, 3D-printable.
 
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC_BY--SA_4.0-lightgrey.svg)](LICENSE)
 [![OpenSCAD](https://img.shields.io/badge/OpenSCAD-2021.01+-informational.svg)](https://openscad.org/)
